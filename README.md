@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ReolinkCameraAPI/noctiluca/blob/main/.assets/noctiluca.png" width=100px></p>
+<p align="center"><img src="https://github.com/ReolinkCameraAPI/noctiluca/blob/master/.assets/noctiluca.png" width=100px></p>
 <h1 align="center">NoctiLuca</h1>
 
 <p align="center">
