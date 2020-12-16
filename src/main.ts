@@ -1,8 +1,15 @@
 import Vue from 'vue';
-import App from './App.vue';
 import './registerServiceWorker';
+import Buefy from 'buefy';
+import axios from 'axios';
+import VueAxios from 'vue-axios';
 import router from './router';
 import store from './store';
+import 'buefy/dist/buefy.css';
+import App from './App.vue';
+
+Vue.use(Buefy);
+Vue.use(VueAxios, axios);
 
 Vue.config.productionTip = false;
 
